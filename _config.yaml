@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: tahazakir
-subtitle: 
+title: MN Lab Demo
+subtitle: work.in.progress
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@tahazakir.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: tahazakir
-  twitter: tahazakir
-  youtube: tahazakir
+  email: contact@mnlab.com
+  # orcid: 0000-0001-8713-9213
+  google-scholar: https://scholar.google.com/citations?user=kj8qmmoAAAAJ&hl=en
+  github: mnlab
+  twitter: mnlab
+  # youtube: tahazakir
 
 ### jekyll settings
 
