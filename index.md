@@ -1,7 +1,7 @@
 ---
 ---
 
-# tahazakir's Website
+# MN Lab's Demo Website
 
 An engaging 1-3 sentence description of your lab.
 
