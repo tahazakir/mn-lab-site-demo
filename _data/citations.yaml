@@ -18,8 +18,8 @@
   date: '2023-01-01'
   link: https://doi.org/gtn95n
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: eid:2-s2.0-85140891897
   title: 'Aunties, Strangers, and the FBI: Online Privacy Concerns and Experiences
     of Muslim-American Women'
@@ -48,8 +48,8 @@
   date: '2022-04-25'
   link: https://doi.org/gtn95p
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3555204
   title: 'Moderation as Empowerment: Creating and Managing Women-Only Digital Safe
     Spaces'
@@ -62,8 +62,8 @@
   date: '2022-11-07'
   link: https://doi.org/gtn95q
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3530190.3534819
   title: Understanding Power Differentials and Cultural Differences in Co-design with
     Marginalized Populations
@@ -77,8 +77,8 @@
   date: '2022-06-29'
   link: https://doi.org/gtn95r
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3555775
   title: Women's Perspectives on Harm and Justice after Online Harassment
   authors:
@@ -113,8 +113,8 @@
   date: '2020-04-21'
   link: https://doi.org/gtn95t
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3392561.3394647
   title: An Exploration of African-American Pregnant Women's Information-Seeking Behavior
     in Detroit
@@ -127,8 +127,8 @@
   date: '2020-06-17'
   link: https://doi.org/gtn95v
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3415217
   title: Designing Digital Safe Spaces for Peer Support and Connectivity in Patriarchal
     Contexts
@@ -140,8 +140,8 @@
   date: '2020-10-14'
   link: https://doi.org/gtn95w
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3392561.3397588
   title: Does Gender and Accent of Voice Matter?
   authors:
@@ -154,8 +154,8 @@
   date: '2020-06-17'
   link: https://doi.org/gtn95x
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3392561.3394639
   title: Patriarchy and Social Media
   authors:
@@ -167,8 +167,8 @@
   date: '2020-06-17'
   link: https://doi.org/gtn95z
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3372224.3418170
   title: Design of an IoT-based water flow monitoring system
   authors:
@@ -184,8 +184,8 @@
   date: '2020-09-18'
   link: https://doi.org/grbnkn
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3287098.3287143
   title: Money matters
   authors:
@@ -199,8 +199,8 @@
   date: '2019-01-04'
   link: https://doi.org/gtn952
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3197391.3205446
   title: Using Experiential-Learning and Iterative Design to Benefit Colorado's Refugees
   authors:
@@ -213,8 +213,8 @@
   date: '2018-05-30'
   link: https://doi.org/gtn953
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3132525.3134809
   title: Interactive Urdu Braille Learning System for Parents of Visually Impaired
     Students
@@ -227,8 +227,8 @@
   date: '2017-10-19'
   link: https://doi.org/gtn954
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/2909609.2909634
   title: Child Immunization Health Card Redesign
   authors:
@@ -241,8 +241,8 @@
   date: '2016-06-03'
   link: https://doi.org/gtn955
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3001913.3006646
   title: Design Methods to Reduce Technology Fear and Solicit Feedback from Lady Health
     Workers (LHWs) in Pakistan
@@ -258,8 +258,8 @@
   date: '2016-11-18'
   link: https://doi.org/gtn956
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3001913.3001925
   title: Iterative Design of an Immunization Information System in Pakistan
   authors:
@@ -273,8 +273,8 @@
   date: '2016-11-18'
   link: https://doi.org/gtn957
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/2938559.2948864
   title: POSTER
   authors:
@@ -286,8 +286,8 @@
   date: '2016-06-25'
   link: https://doi.org/gtn958
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/2702613.2732756
   title: Understanding the Needs of Pakistani Farmers and the Prospects of an ICT
     Intervention
@@ -302,48 +302,5 @@
   date: '2015-04-18'
   link: https://doi.org/gtn959
   orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  remove: true
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  remove: true
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  remove: true
   plugin: sources.py
   file: sources.yaml
