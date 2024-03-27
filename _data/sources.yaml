@@ -12,3 +12,15 @@
   orcid: 0000-0002-6293-0356
   plugin: orcid.py
   file: orcid.yaml
+
+- id: eid:2-s2.0-85140891897
+  remove: true
+
+- id: doi:10.1371/journal.pcbi.1007128
+  remove: true
+
+- id: doi:10.1016/j.csbj.2020.05.017
+  remove: true
+
+- id: doi:10.7554/eLife.32822
+  remove: true
