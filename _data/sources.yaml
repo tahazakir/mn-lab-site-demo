@@ -1,6 +1,14 @@
-- id: eid:2-s2.0-85140891897
+- title: 'Aunties, Strangers, and the FBI: Online Privacy Concerns and Experiences
+    of Muslim-American Women'
   authors: 
-  - Tanisha Afnan
-  - Yixin Zou
-  - Maryam Mustafa
-  - Mustafa Naseem
+    - Tanisha Afnan
+    - Yixin Zou
+    - Maryam Mustafa
+    - Mustafa Naseem
+  publisher: Proceedings of the 18th Symposium on Usable Privacy and Security, SOUPS
+    2022
+  date: '2023-10-29'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85140891897&partnerID=MN8TOARS
+  orcid: 0000-0002-6293-0356
+  plugin: orcid.py
+  file: orcid.yaml
