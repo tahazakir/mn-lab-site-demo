@@ -17,19 +17,8 @@
   publisher: arXiv
   date: '2023-01-01'
   link: https://doi.org/gtn95n
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
-- id: eid:2-s2.0-85140891897
-  title: 'Aunties, Strangers, and the FBI: Online Privacy Concerns and Experiences
-    of Muslim-American Women'
-  publisher: Proceedings of the 18th Symposium on Usable Privacy and Security, SOUPS
-    2022
-  date: '2023-10-29'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85140891897&partnerID=MN8TOARS
-  orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1145/3485447.3512267
   title: Fostering Engagement of Underserved Communities with Credible Health Information
     on Social Media
@@ -47,7 +36,6 @@
   publisher: Proceedings of the ACM Web Conference 2022
   date: '2022-04-25'
   link: https://doi.org/gtn95p
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3555204
@@ -61,7 +49,6 @@
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2022-11-07'
   link: https://doi.org/gtn95q
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3530190.3534819
@@ -76,29 +63,8 @@
   publisher: ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS)
   date: '2022-06-29'
   link: https://doi.org/gtn95r
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/3555775
-  title: Women's Perspectives on Harm and Justice after Online Harassment
-  authors:
-  - Jane Im
-  - Sarita Schoenebeck
-  - Marilyn Iriarte
-  - Gabriel Grill
-  - Daricia Wilkinson
-  - Amna Batool
-  - Rahaf Alharbi
-  - Audrey Funwie
-  - Tergel Gankhuu
-  - Eric Gilbert
-  - Mustafa Naseem
-  publisher: Proceedings of the ACM on Human-Computer Interaction
-  date: '2022-11-07'
-  link: https://doi.org/gtn95s
-  orcid: 0000-0002-6293-0356
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1145/3313831.3376683
   title: An Empirical Comparison of Technologically Mediated Advertising in Under-connected
     Populations
@@ -112,7 +78,6 @@
     Systems
   date: '2020-04-21'
   link: https://doi.org/gtn95t
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3392561.3394647
@@ -126,7 +91,6 @@
     Technologies and Development
   date: '2020-06-17'
   link: https://doi.org/gtn95v
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3415217
@@ -139,7 +103,6 @@
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2020-10-14'
   link: https://doi.org/gtn95w
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3392561.3397588
@@ -153,7 +116,6 @@
     Technologies and Development
   date: '2020-06-17'
   link: https://doi.org/gtn95x
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3392561.3394639
@@ -166,7 +128,6 @@
     Technologies and Development
   date: '2020-06-17'
   link: https://doi.org/gtn95z
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3372224.3418170
@@ -183,7 +144,6 @@
     and Networking
   date: '2020-09-18'
   link: https://doi.org/grbnkn
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3287098.3287143
@@ -198,7 +158,6 @@
     Communication Technologies and Development
   date: '2019-01-04'
   link: https://doi.org/gtn952
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3197391.3205446
@@ -212,7 +171,6 @@
     Interactive Systems
   date: '2018-05-30'
   link: https://doi.org/gtn953
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3132525.3134809
@@ -226,7 +184,6 @@
     and Accessibility
   date: '2017-10-19'
   link: https://doi.org/gtn954
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/2909609.2909634
@@ -240,7 +197,6 @@
     Communication Technologies and Development
   date: '2016-06-03'
   link: https://doi.org/gtn955
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3001913.3006646
@@ -257,7 +213,6 @@
   publisher: Proceedings of the 7th Annual Symposium on Computing for Development
   date: '2016-11-18'
   link: https://doi.org/gtn956
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3001913.3001925
@@ -272,7 +227,6 @@
   publisher: Proceedings of the 7th Annual Symposium on Computing for Development
   date: '2016-11-18'
   link: https://doi.org/gtn957
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/2938559.2948864
@@ -285,7 +239,6 @@
     Applications, and Services Companion
   date: '2016-06-25'
   link: https://doi.org/gtn958
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/2702613.2732756
@@ -301,6 +254,5 @@
     Factors in Computing Systems
   date: '2015-04-18'
   link: https://doi.org/gtn959
-  orcid: 0000-0002-6293-0356
   plugin: sources.py
   file: sources.yaml
