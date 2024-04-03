@@ -102,7 +102,7 @@
   - Maryam Mustafa
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2020-10-14'
-  link: https://doi.org/gtn95w
+  link: https://mustafanaseemcom.files.wordpress.com/2022/10/cscw2020_digitalsafespaces.pdf
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3392561.3397588
@@ -127,7 +127,7 @@
   publisher: Proceedings of the 2020 International Conference on Information and Communication
     Technologies and Development
   date: '2020-06-17'
-  link: https://doi.org/gtn95z
+  link: https://mustafanaseemcom.files.wordpress.com/2022/10/ictd2020_patriarchy.pdf
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3372224.3418170
